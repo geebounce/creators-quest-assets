@@ -5,6 +5,7 @@ import "./reset.css";
 function App() {
   return (
     <>
+      <title>Creators Quest Assets</title>
       <div className={classes.container}>
         <h1>Buttons</h1>
         <div>
