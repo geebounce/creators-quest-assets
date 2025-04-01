@@ -1,12 +1,9 @@
-# React + Vite
+# Creators Quest Assets
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project serves as a repository for hosting various web assets for the **Creators Quest** project. These assets are intended to be used as references during the development process, providing examples of components, styles, and other resources.
 
-Currently, two official plugins are available:
+## Demo URL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can access the hosted demo at the following URL:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[https://creators-quest-assets.web.app](https://creators-quest-assets.web.app)
