@@ -1,0 +1,28 @@
+.container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+
+  h1 {
+    font-size: 5rem;
+    font-weight: 900;
+    margin: 3rem 0 5rem 0;
+    color: black;
+  }
+
+  div {
+    margin-bottom: 5rem;
+
+    button {
+      margin-right: 1.25rem;
+    }
+
+    p {
+      margin-top: 1.5rem;
+      color: black;
+    }
+  }
+}
