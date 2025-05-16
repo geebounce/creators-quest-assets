@@ -1,0 +1,10 @@
+.island_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  max-width: 800px;
+}
+
+.island_container > img {
+  width: 100%;
+}
